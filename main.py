@@ -4,3 +4,6 @@ print (message)
 
 age = input("dime tu edad")
 print ("tu edad es"+ age)
+
+
+gender = input ("introduce tu edad: ")
