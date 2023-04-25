@@ -6,4 +6,5 @@ age = input("dime tu edad")
 print ("tu edad es"+ age)
 
 
-gender = input ("introduce tu edad: ")
+print (f"tu nombre es"{name} y tu edad es {age}")
+
